@@ -3,7 +3,7 @@ A small C# program that can resample very large BigTiff files fast.
 
 command line tool to resample large tiff files
 
-Use:
+## Use
 ```
 TiffResampler.exe mylargeFile.tif sampling
 ```
